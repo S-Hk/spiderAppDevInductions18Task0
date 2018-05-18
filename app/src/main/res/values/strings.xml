@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pay the Piper</string>
+    <string name="resetButtonText">Reset</string>
+    <string name="amountTarget_textView">Target amount to be paid:</string>
+    <string name="currentAmount_textView">Current Amount:</string>
+    <string name="initialNull00">00</string>
+</resources>
