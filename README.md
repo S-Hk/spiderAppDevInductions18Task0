@@ -1,5 +1,5 @@
 # spiderInductions18Task0
-Submittion for Task 0 for Spider Inductions 2018
+Submittion of Task 0 for Spider App Dev Inductions 2018
 
 {
 TASK 0: Pay the Piper
